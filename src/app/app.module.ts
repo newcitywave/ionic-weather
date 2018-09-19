@@ -6,9 +6,10 @@ import { MyApp } from './app.component';
 
 import { Pro } from '@ionic/pro';
 
-import { AboutPage } from '../pages/about/about';
-import { ContactPage } from '../pages/contact/contact';
-import { HomePage } from '../pages/home/home';
+import { AboutPage } from '../pages/forecast/forecast';
+import { ContactPage } from '../pages/uv-index/uv-index'
+import { HomePage } from '../pages/current-weather/current-weather';
+
 import { TabsPage } from '../pages/tabs/tabs';
 
 import { StatusBar } from '@ionic-native/status-bar';
